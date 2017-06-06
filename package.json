@@ -1,0 +1,23 @@
+{
+  "name": "travel-site-learning",
+  "version": "1.0.0",
+  "description": "dummy travel site for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Elteibi/travel-site-learning.git"
+  },
+  "author": "Mohammad Elteibi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-Elteibi/travel-site-learning/issues"
+  },
+  "homepage": "https://github.com/M-Elteibi/travel-site-learning#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  }
+}
